@@ -1,0 +1,21 @@
+class Parent
+{
+	int a = 10;
+	static int b = 20;
+}
+
+class Base extends Parent 
+{
+	void rr()
+	{
+		System.out.println(super.a);
+		System.out.println(super.b);
+	}
+}
+class Super
+{
+	public static void main(String[] args)
+	{
+		new Base().rr();
+	}
+}

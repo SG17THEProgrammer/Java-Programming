@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intelij_Idea.iml" filepath="$PROJECT_DIR$/Intelij_Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/jdbc/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC1/JDBC1.iml" filepath="$PROJECT_DIR$/JDBC1/JDBC1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pattern Programs/Pattern_Programs/Pattern_Programs.iml" filepath="$PROJECT_DIR$/../Pattern Programs/Pattern_Programs/Pattern_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+    </modules>
+  </component>
+</project>
